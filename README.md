@@ -41,8 +41,8 @@ pkg update -y && pkg upgrade -y
 pkg install git -y
 git clone https://github.com/Analyst-abdul/Ubuntu-termux.git
 cd Ubuntu-termux
-chmod +x install-ubuntu-gui.sh
-./install-ubuntu-gui.sh
+chmod +x ubuntu-gui.sh
+./ubuntu-gui.sh
 ```
 
 ⏳ **First installation may take several minutes** depending on your internet speed.
